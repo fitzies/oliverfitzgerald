@@ -21,6 +21,7 @@ const Nav = () => {
         {navs.map((nav) => {
           return (
             <Link
+              key={nav}
               href={
                 nav === "Github"
                   ? "https://github.com/fitzies/oliverfitzgerald"

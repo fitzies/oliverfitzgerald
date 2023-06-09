@@ -9,7 +9,7 @@ const Head = () => {
         type="fade"
         className="font-bold text-3xl lg:text-8xl py-2 gradient-text"
       >
-        Hi, I'm Oliver Fitzgerald
+        Hi, I am Oliver Fitzgerald
       </Motion>
       <Motion
         duration={0.5}
